@@ -11,7 +11,6 @@ import android.support.v4.content.ContextCompat;
 
 /**
  * Created by Chengyu on 8/24/2016.
- * Don't know how to design this class, copy from teacher's template
  */
 public class PermissionUtils {
 
